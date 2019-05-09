@@ -1,0 +1,8 @@
+casa
+floresta
+celular
+computador
+teclado
+mouse
+copo
+garrafa
